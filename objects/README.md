@@ -1,1 +1,1 @@
-http://downloads.sourceforge.net/project/nagios/nrpe-2.x/nrpe-2.14/nrpe-2.14.tar.gz?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fnagios%2Ffiles%2Fnrpe-2.x%2Fnrpe-2.14%2Fnrpe-2.14.tar.gz%2Fdownload%3Fuse_mirror%3Diweb%26r%3Dhttp%253A%252F%252Fwww.nagios.org%252Fnews%252F77-news-announcements%252F345-nrpe-214-released%26use_mirror%3Diweb&ts=1398606313&use_mirror=softlayer-dal
+http://downloads.sourceforge.net/project/nagios/nrpe-2.x/nrpe-2.14/nrpe-2.14.tar.gz?r=&ts=1398606631&use_mirror=softlayer-dal
